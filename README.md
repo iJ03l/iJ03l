@@ -16,4 +16,5 @@ I'm a Software Engineer, Cyber security Enthusiast and a Buidler who's currently
 ---
 
 <!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> | -->
-| ------------- | ------------- |
+
+[![@ij03l's Holopin board](https://holopin.io/api/user/board?user=ij03l)](https://holopin.io/@ij03l)
