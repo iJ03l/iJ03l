@@ -6,7 +6,6 @@ I'm a Software Engineer, Cyber security Enthusiast and a Buidler who's currently
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: They/Them
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Cloud/Dev Ops and Ethical Hacking
 - 😊 I’m looking for help with open source projects, hackathons, internships, and all tech opportunities.
