@@ -17,7 +17,7 @@ I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigi
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ij03l&show_icons=true&include_all_commits=true&hide_border=true" alt="Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij03l&langs_count=8&layout=compact&hide_border=true" alt="Joel's GitHub stats" /> |
 
--- Music  
+- Music  
 ⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠈⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠛⠛⠛⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠛⠛⠛⠛⠿⠿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠁⠀⠉⢻⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⠃⢰⠉⠻⣶⣤⣀⡀⠀⠀⠈⠉⠀⠀⠀⣀⣠⣴⡶⠖⠈⠀⠀⠀⢀⣤⡀⠀⠀⠀⠁⠲⢶⣦⣄⣀⠀⠀⠀⠉⠉⠀⠀⢀⣀⣤⣶⡿⠿⡆⠈⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⡿⠀⣼⠀⠀⠀⠻⢿⣿⣿⣶⣄⠀⢀⣴⡿⠟⠋⠁⠀⣀⣀⣤⣤⣾⣿⣿⣿⣷⣦⣤⣀⣀⠀⠀⠙⠻⢿⣦⡀⠀⣠⣶⣿⣿⣿⠟⠋⠀⠀⣷⠀⢻⣿⣿⣿⣿⣿⣿
