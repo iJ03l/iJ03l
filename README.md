@@ -11,7 +11,7 @@ I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigi
 - 😊 I’m looking for help with open source projects, hackathons, internships, and all tech opportunities.
 - 💼 Job interests: DevOps, MLOPs, Cloud Engineer or SysAdmin.
 - 📫 You can contact me by sending a [Mail](mailto:idahorjoel@gmail.com)
-- ♡✮☁️✧˖°💿⋆｡°✩ [CV](https://drive.google.com/file/d/1hT_oa7gnPmOTDElHWhFblOvAMkUzunlh/view?usp=share_link) Copy
+- ♡✮✩ [CV](https://drive.google.com/file/d/1hT_oa7gnPmOTDElHWhFblOvAMkUzunlh/view?usp=share_link) Copy
 
 ---
 
