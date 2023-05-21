@@ -17,7 +17,8 @@ I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigi
 <h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <!--START_SECTION:badges-->
-[![Cybersecurity Essentials](https://images.credly.com/size/100x100/images/d39a5685-be0f-46fa-be1d-1d2fbfaa4e72)]([https://www.credly.com/badges/d39a5685-be0f-46fa-be1d-1d2fbfaa4e72 "Cybersecurity Essentials")
+[![Cybersecurity Essentials](https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/d39a5685-be0f-46fa-be1d-1d2fbfaa4e72/public_url "Cybersecurity Essentials")
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png )](https://www.credly.com/badges/83acee01-39cb-4a12-a770-b66032b12d73/public_url "Introduction to Cybersecurity")
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ij03l&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij03l&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="Joel's GitHub stats" /> |
 
