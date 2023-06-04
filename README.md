@@ -19,6 +19,7 @@ I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigi
 <!--START_SECTION:badges-->
 [![Cybersecurity Essentials](https://images.credly.com/size/140x140/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/d39a5685-be0f-46fa-be1d-1d2fbfaa4e72/public_url "Cybersecurity Essentials")
 [![Introduction to Cybersecurity](https://images.credly.com/size/140x140/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png )](https://www.credly.com/badges/83acee01-39cb-4a12-a770-b66032b12d73/public_url "Introduction to Cybersecurity")
+[![CyberThreat Management](https://images.credly.com/size/140x140/images/fe36e3ef-f014-41f6-9089-073d5eac58c3/CyberThreatManagement_v1_091721.png )](https://www.credly.com/badges/191ac342-e86b-417c-83aa-908965696f9d/public_url  "CyberThreat Management")
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ij03l&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij03l&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="Joel's GitHub stats" /> |
 
