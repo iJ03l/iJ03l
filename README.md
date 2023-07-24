@@ -7,7 +7,7 @@ I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigi
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: Product of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently a Cloud/DevOps Engineer, MERN Stack
+- 🌱 I’m currently a Cloud/DevSecOps Engineer, MERN Stack
 - 😊 I’m looking for help with open source projects, hackathons, internships, and all tech opportunities.
 - 💼 Job interests: DevOps, MLOPs, Cloud Engineer or SysAdmin.
 - 📫 You can contact me by sending a [Mail](mailto:idahorjoel@gmail.com)
@@ -17,9 +17,10 @@ I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigi
 <h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 <!--START_SECTION:badges-->
-[![Cybersecurity Essentials](https://images.credly.com/size/140x140/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/d39a5685-be0f-46fa-be1d-1d2fbfaa4e72/public_url "Cybersecurity Essentials")
-[![Introduction to Cybersecurity](https://images.credly.com/size/140x140/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png )](https://www.credly.com/badges/83acee01-39cb-4a12-a770-b66032b12d73/public_url "Introduction to Cybersecurity")
-[![CyberThreat Management](https://images.credly.com/size/140x140/images/fe36e3ef-f014-41f6-9089-073d5eac58c3/CyberThreatManagement_v1_091721.png )](https://www.credly.com/badges/191ac342-e86b-417c-83aa-908965696f9d/public_url  "CyberThreat Management")
+[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/d39a5685-be0f-46fa-be1d-1d2fbfaa4e72/public_url "Cybersecurity Essentials")
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png )](https://www.credly.com/badges/83acee01-39cb-4a12-a770-b66032b12d73/public_url "Introduction to Cybersecurity")
+[![CyberThreat Management](https://images.credly.com/size/110x110/images/fe36e3ef-f014-41f6-9089-073d5eac58c3/CyberThreatManagement_v1_091721.png )](https://www.credly.com/badges/191ac342-e86b-417c-83aa-908965696f9d/public_url  "CyberThreat Management")
+[![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png )](https://www.credly.com/badges/bdaff15b-020b-4bb8-ada1-bbadb69c19e2/public_url  "Endpoint Security")
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ij03l&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij03l&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="Joel's GitHub stats" /> |
 
