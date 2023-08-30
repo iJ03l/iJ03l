@@ -21,6 +21,7 @@ I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigi
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png )](https://www.credly.com/badges/83acee01-39cb-4a12-a770-b66032b12d73/public_url "Introduction to Cybersecurity")
 [![CyberThreat Management](https://images.credly.com/size/110x110/images/fe36e3ef-f014-41f6-9089-073d5eac58c3/CyberThreatManagement_v1_091721.png )](https://www.credly.com/badges/191ac342-e86b-417c-83aa-908965696f9d/public_url  "CyberThreat Management")
 [![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png )](https://www.credly.com/badges/bdaff15b-020b-4bb8-ada1-bbadb69c19e2/public_url  "Endpoint Security")
+[![Network Defense](https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png )](https://www.credly.com/badges/178fc2b9-6e61-47d8-974a-de76889d9d42/public_url  "Network Defense")
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ij03l&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij03l&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="Joel's GitHub stats" /> |
 
