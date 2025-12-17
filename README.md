@@ -1,32 +1,97 @@
-![Race-of-Sloths](https://badge.race-of-sloths.com/ij03l?wallet=ajo3l.near)
+<!-- FILE: SYSTEM_ROOT/USERS/IJ03L/PROFILE.MD -->
+<!-- SECURITY LEVEL: ENCRYPTED -->
+<!-- RENDER MODE: HOLOGRAPHIC -->
 
-# Ciao benvenuto <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=26&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=SYSTEM+BOOT+SEQUENCE_INITIATED...;LOADING+PROFILE:+ij03l;IDENTITY:+FOUNDER+%7C+ENGINEER+%7C+ROBOTICS;ACCESSING+SECURE+ARCHIVES..." alt="BOOT_SEQ" />
+</div>
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-Joel-black?style=for-the-badge&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/joel-osagumwenro-370928147)](http://linkedin.com/in/joel-osagumwenro-370928147) [![Twitter Badge](https://img.shields.io/badge/-@aJo3l-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iambolajiayo)](https://twitter.com/xy63y0rx) [![Website Badge](https://img.shields.io/badge/-ij03l.tech-orange?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://ij03l.tech)](https://ij03l.tech) [![Instagram](https://img.shields.io/badge/el-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ij03l)
+<br />
 
-I'm a Software Engineer, Ai & Cyber security Enthusiast, Product of the Prestigious [Altschool Africa](https://altschoolafrica.com/schools/engineering) and Buidling a logistics solution [Xlistics](https://xlistics.com). I'm excited about Tech, Security, Ai, Web3, Metaverse and Photography. I wrote a more detailed article about me on [Dev.to](https://dev.to/ij03l/about-me-2i5j).
+<table border="0" width="100%">
+    <tr>
+        <td valign="top" width="60%">
+            <h3>// IDENTITY_MATRIX</h3>
+            <pre>
+USER_ID    : ij03l
+CLASS      : [Founder, Engineer, Robotics_Expert]
+ORIGIN     : root
+STACK      : [MERN, Cloud, DevSecOps, SysAdmin]
+LOCATION   : /// CLASSIFIED ///
+STATUS     : ONLINE
+            </pre>
+            <br />
+            <h3>// ACTIVE_MISSIONS</h3>
+            <blockquote>
+            <b>> PROJECT: EXHIBOT LABS</b><br>
+            // STATUS: BUILDING<br>
+            // TARGET: Robotics enthusiast<br>
+            // LINK: <a href="https://exhibot.app/profile/exhibotng">SECURE_CHANNEL</a>
+            </blockquote>
+             <blockquote>
+            <b>> PROJECT: EXHIBOT APP</b><br>
+            // STATUS: DEPLOYED<br>
+            // DESC: "Your friend for everything connections."
+            </blockquote>
+        </td>
+        <td valign="top" width="40%">
+             <h3>// SYSTEM_TELEMETRY</h3>
+             <img src="https://github-readme-stats.vercel.app/api?username=ij03l&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&text_color=CCCCCC&icon_color=39FF14" alt="Stats" />
+             <br />
+             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij03l&theme=transparent&layout=compact&hide_border=true&title_color=39FF14&text_color=CCCCCC" alt="Langs" />
+        </td>
+    </tr>
+</table>
 
-**Here's a quick summary about me**:
+<br />
 
-- 💡 Fun fact: Product of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently a Cloud/DevSecOps Engineer, MERN Stack
-- 😊 I’m looking for help with open source projects, hackathons, internships, and all tech opportunities.
-- 💼 Job interests: DevOps, MLOPs, Cloud Engineer or SysAdmin.
-- 📫 You can contact me by sending a [Mail](mailto:idahorjoel@gmail.com)
-- ♡✮✩ [CV](https://drive.google.com/file/d/1hT_oa7gnPmOTDElHWhFblOvAMkUzunlh/view?usp=share_link) Copy
+<details>
+<summary><b>[ CLICK_TO_DECRYPT_BIO_DATA ]</b></summary>
+<br />
+<pre>
+> DECRYPTING.................... [OK]
 
----
-<h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+"Fun fact: Product of Curiousity."
+"Interest_Vector: [Tech, Security, AI, Web3, Metaverse, Photography]"
+"Objective: Help with Open Source, Hackathons, Internships."
 
-<!--START_SECTION:badges-->
-[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/d39a5685-be0f-46fa-be1d-1d2fbfaa4e72/public_url "Cybersecurity Essentials")
-[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png )](https://www.credly.com/badges/83acee01-39cb-4a12-a770-b66032b12d73/public_url "Introduction to Cybersecurity")
-[![CyberThreat Management](https://images.credly.com/size/110x110/images/fe36e3ef-f014-41f6-9089-073d5eac58c3/CyberThreatManagement_v1_091721.png )](https://www.credly.com/badges/191ac342-e86b-417c-83aa-908965696f9d/public_url  "CyberThreat Management")
-[![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png )](https://www.credly.com/badges/bdaff15b-020b-4bb8-ada1-bbadb69c19e2/public_url  "Endpoint Security")
-[![Network Defense](https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png )](https://www.credly.com/badges/178fc2b9-6e61-47d8-974a-de76889d9d42/public_url  "Network Defense")
+> CONTACT_PROTOCOLS:
+  [MAIL] :: joel@exhibot.ng
+</pre>
+</details>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ij03l&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Joel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ij03l&theme=dark&langs_count=10&layout=compact&hide_border=true" alt="Joel's GitHub stats" /> |
+<br />
+<br />
 
----
-[![](https://visitcount.itsvg.in/api?id=ij03l&icon=5&color=0)](https://visitcount.itsvg.in)
-- 🎹 [Spotify Playlist](https://open.spotify.com/playlist/6Hcktnfd1ijWeH15QUzJZa?si=LIPCiPB-TnGHYNnllirRNA&utm_source=copy-link)  
+<div align="center">
+<h3>// SECURITY_CLEARANCE_BADGES</h3>
+<table>
+  <tr>
+    <td align="center"><img src="https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="50" /><br>CYBER_ESSENTIALS</td>
+    <td align="center"><img src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="50" /><br>ENDPOINT_SEC</td>
+    <td align="center"><img src="https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="50" /><br>NET_DEFENSE</td>
+  </tr>
+</table>
+</div>
+
+<br />
+
+```cpp
+void execute_uplink() {
+    // ESTABLISHING CONNECTION TO MAIN PROFILE
+    // BYPASSING FIREWALLS...
+    // ROUTING TRAFFIC...
+    
+    Target destination = "exhibot.app/profile/ij03l";
+    System::connect(destination);
+}
+```
+
+<div align="center">
+  <h2>
+    <a href="https://exhibot.app/profile/ij03l" style="text-decoration:none;">
+      [ 🟢 INITIATE UPLINK SEQUENCE 🟢 ]
+    </a>
+  </h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=60&section=footer&text=" width="100%" />
+</div>
