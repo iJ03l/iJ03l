@@ -52,8 +52,8 @@ STATUS     : ONLINE
 > DECRYPTING.................... [OK]
 
 "Fun fact: Product of Curiousity."
-"Interest_Vector: [Tech, Security, AI, Web3, Metaverse, Photography]"
-"Objective: Help with Open Source, Hackathons, Internships."
+"Interest_Vector: [Robotics, Tech, Security, AI, Web3, Metaverse, Photography]"
+"Objective: See and applaud tech advancements and anyway i can help."
 
 > CONTACT_PROTOCOLS:
   [MAIL] :: joel@exhibot.ng
