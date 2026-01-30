@@ -82,14 +82,14 @@ void execute_uplink() {
     // BYPASSING FIREWALLS...
     // ROUTING TRAFFIC...
     
-    Target destination = "exhibot.app/profile/ij03l";
+    Target destination = "craly.app/u/ij03l";
     System::connect(destination);
 }
 ```
 
 <div align="center">
   <h2>
-    <a href="https://craly/u/ij03l" style="text-decoration:none;">
+    <a href="https://craly.app/u/ij03l" style="text-decoration:none;">
       [ 🟢 INITIATE UPLINK SEQUENCE 🟢 ]
     </a>
   </h2>
