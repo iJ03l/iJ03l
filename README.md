@@ -23,15 +23,15 @@ STATUS     : ONLINE
             <br />
             <h3>// ACTIVE_MISSIONS</h3>
             <blockquote>
-            <b>> PROJECT: EXHIBOT LABS</b><br>
+            <b>> PROJECT: EXHIBOT </b><br>
             // STATUS: BUILDING<br>
             // TARGET: Robotics enthusiast<br>
-            // LINK: <a href="https://exhibot.app/profile/exhibotng">SECURE_CHANNEL</a>
+            // LINK: <a href="https://craly.app/u/exhibotng">SECURE_CHANNEL</a>
             </blockquote>
              <blockquote>
-            <b>> PROJECT: EXHIBOT APP</b><br>
+            <b>> PROJECT: CRALY </b><br>
             // STATUS: DEPLOYED<br>
-            // DESC: "Your friend for everything connections."
+            // DESC: "The Creators Operating system"
             </blockquote>
         </td>
         <td valign="top" width="40%">
