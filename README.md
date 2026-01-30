@@ -89,7 +89,7 @@ void execute_uplink() {
 
 <div align="center">
   <h2>
-    <a href="https://exhibot.app/profile/ij03l" style="text-decoration:none;">
+    <a href="https://craly/u/ij03l" style="text-decoration:none;">
       [ 🟢 INITIATE UPLINK SEQUENCE 🟢 ]
     </a>
   </h2>
